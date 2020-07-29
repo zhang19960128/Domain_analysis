@@ -1,0 +1,7 @@
+cutin=0.0
+cutout=5.0
+listfile=bidata.txt
+polar_direction_file=polar_direction_Asite.bin
+polar_correlation_file=polar_correlation.bin
+correlation_angle_file=correlation_angle.bin
+correlation_distance_file=correlation_distance.bin
